@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+#  About Me:
 🔹 I’m currently working on<br>Building AI-driven backend systems and real-time data pipelines, with a focus on cybercrime prevention, predictive analytics, and scalable system architecture.<br><br>🔹 I’m looking to collaborate on<br>Projects involving AI/ML, backend development, data analytics, or problem statements with real-world or national-scale impact.<br><br>🔹 I’m looking for help with<br>Improving system design depth, cloud-native deployment, and production-level ML integration for large-scale applications.<br><br>🔹 I’m currently learning<br>Advanced machine learning techniques, distributed systems, and cloud-based backend architectures.<br><br>🔹 Ask me about<br>Smart India Hackathon experience, backend architecture, AI-based predictive systems, or building real-world tech solutions under pressure.<br><br>🔹 Fun fact<br>I went from coding for grades to architecting systems for national impact during my first national-level hackathon.
 
 
